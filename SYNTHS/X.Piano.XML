@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.1.0"
+	earliestCompatibleFirmware="3.1.0-beta"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="23"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C1-1-48.WAV"
+				transpose="37"
+				cents="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="891888" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db1-1-48.wav"
+				transpose="35"
+				cents="17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885786" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D1-1-48.WAV"
+				transpose="34"
+				cents="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="890368" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb1-1-48.wav"
+				transpose="33"
+				cents="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885833" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E1-1-48.WAV"
+				transpose="32"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885259" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F1-1-48.WAV"
+				transpose="31"
+				cents="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885533" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb1-1-48.wav"
+				transpose="30"
+				cents="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="883361" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G1-1-48.WAV"
+				transpose="29"
+				cents="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="886766" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab1-1-48.wav"
+				transpose="28"
+				cents="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="886574" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A1-1-48.WAV"
+				transpose="27"
+				cents="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885030" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb1-1-48.wav"
+				transpose="26"
+				cents="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="887967" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B1-1-48.WAV"
+				transpose="25"
+				cents="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="885283" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C2-1-48.WAV"
+				transpose="24"
+				cents="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="671068" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db2-1-48.wav"
+				transpose="23"
+				cents="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="666716" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D2-1-48.WAV"
+				transpose="22"
+				cents="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="666896" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb2-1-48.wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="671366" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E2-1-48.WAV"
+				transpose="20"
+				cents="-13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="666763" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F2-1-48.WAV"
+				transpose="19"
+				cents="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="662826" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb2-1-48.wav"
+				transpose="18"
+				cents="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="662562" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G2-1-48.WAV"
+				transpose="17"
+				cents="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="663827" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab2-1-48.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="669953" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A2-1-48.WAV"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="666700" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb2-1-48.wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="663864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B2-1-48.WAV"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="663906" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C3-1-48.WAV"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532310" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db3-1-48.wav"
+				transpose="11"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="534358" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D3-1-48.WAV"
+				transpose="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="528896" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb3-1-48.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="537090" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E3-1-48.WAV"
+				transpose="8"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531122" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F3-1-48.WAV"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533287" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb3-1-48.wav"
+				transpose="6"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="540258" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G3-1-48.WAV"
+				transpose="5"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531669" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab3-1-48.wav"
+				transpose="4"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533484" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A3-1-48.WAV"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532368" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb3-1-48.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="535954" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B3-1-48.WAV"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531562" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C4-1-48.WAV">
+				<zone
+					startSamplePos="0"
+					endSamplePos="529211" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db4-1-48.wav"
+				transpose="-1"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532797" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D4-1-48.WAV"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533776" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb4-1-48.wav"
+				transpose="-3"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531075" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E4-1-48.WAV"
+				transpose="-4"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533089" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F4-1-48.WAV"
+				transpose="-5"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530356" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb4-1-48.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533767" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G4-1-48.WAV"
+				transpose="-7"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="528987" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab4-1-48.wav"
+				transpose="-8"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="534484" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A4-1-48.WAV"
+				transpose="-9"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532600" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb4-1-48.wav"
+				transpose="-10"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="528717" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B4-1-48.WAV"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="529459" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C5-1-48.WAV"
+				transpose="-12"
+				cents="-4">
+				<zone
+					startSamplePos="0"
+					endSamplePos="353091" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D5-1-48.WAV"
+				transpose="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="356251" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb5-1-48.wav"
+				transpose="-15"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="356227" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E5-1-48.WAV"
+				transpose="-16"
+				cents="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="356936" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F5-1-48.WAV"
+				transpose="-17"
+				cents="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="355016" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb5-1-48.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354828" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G5-1-48.WAV"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354762" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab5-1-48.wav"
+				transpose="-20"
+				cents="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354731" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A5-1-48.WAV"
+				transpose="-21"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354729" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb5-1-48.wav"
+				transpose="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354178" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B5-1-48.WAV"
+				transpose="-23"
+				cents="-8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354217" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C6-1-48.WAV"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="262254" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db6-1-48.wav"
+				transpose="-25"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265525" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D6-1-48.WAV"
+				transpose="-26"
+				cents="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265343" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb6-1-48.wav"
+				transpose="-27"
+				cents="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="268117" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E6-1-48.WAV"
+				transpose="-28"
+				cents="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266082" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F6-1-48.WAV"
+				transpose="-29"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265059" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G6-1-48.WAV"
+				transpose="-31"
+				cents="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265653" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab6-1-48.wav"
+				transpose="-32"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265670" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A6-1-48.WAV"
+				transpose="-33"
+				cents="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="264319" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb6-1-48.wav"
+				transpose="-34"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="263800" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C7-1-48.WAV"
+				transpose="-36"
+				cents="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="135622" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Db7-1-48.wav"
+				transpose="-37"
+				cents="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133439" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/D7-1-48.WAV"
+				transpose="-38"
+				cents="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133899" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Eb7-1-48.wav"
+				transpose="-39"
+				cents="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="131491" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/E7-1-48.WAV"
+				transpose="-40"
+				cents="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132391" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/F7-1-48.WAV"
+				transpose="-41"
+				cents="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134837" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Gb7-1-48.wav"
+				transpose="-42"
+				cents="-37">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132710" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/G7-1-48.WAV"
+				transpose="-43"
+				cents="-38">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133254" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Ab7-1-48.wav"
+				transpose="-44"
+				cents="-42">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132540" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/A7-1-48.WAV"
+				transpose="-45"
+				cents="-45">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134392" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/Bb7-1-48.wav"
+				transpose="-47"
+				cents="40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133007" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/B7-1-48.WAV"
+				transpose="-47"
+				cents="-40">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132943" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/LOW/C8-1-48.WAV"
+				transpose="-54"
+				cents="-1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132824" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C1-97-127.wav"
+				transpose="36"
+				cents="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="880654" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Db1-97-127.wav"
+				transpose="35"
+				cents="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="891148" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D1-97-127.wav"
+				transpose="34"
+				cents="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="882238" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb1-97-127.wav"
+				transpose="33"
+				cents="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="888857" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E1-97-127.wav"
+				transpose="32"
+				cents="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="886746" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F1-97-127.wav"
+				transpose="31"
+				cents="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="901894" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb1-97-127.wav"
+				transpose="30"
+				cents="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="882949" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G1-97-127.wav"
+				transpose="29"
+				cents="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="886675" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab1-97-127.wav"
+				transpose="28"
+				cents="10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="889160" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A1-97-127.wav"
+				transpose="27"
+				cents="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="887707" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb1-97-127.wav"
+				transpose="26"
+				cents="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="886076" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B1-97-127.wav"
+				transpose="25"
+				cents="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="860308" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C2-97-127.wav"
+				transpose="24"
+				cents="8">
+				<zone
+					startSamplePos="0"
+					endSamplePos="664375" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D2-97-127.wav"
+				transpose="22"
+				cents="11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="667230" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb2-97-127.wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="670196" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E2-97-127.wav"
+				transpose="20"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="664770" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F2-97-127.wav"
+				transpose="19"
+				cents="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="662176" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb2-97-127.wav"
+				transpose="18"
+				cents="5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="667422" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G2-97-127.wav"
+				transpose="17"
+				cents="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="668029" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab2-97-127.wav"
+				transpose="16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="666749" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A2-97-127.wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="662462" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb2-97-127.wav"
+				transpose="14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="668083" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B2-97-127.wav"
+				transpose="13">
+				<zone
+					startSamplePos="0"
+					endSamplePos="671559" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C3-97-127.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533750" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Db3-97-127.wav"
+				transpose="11"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533880" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb3-97-127.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="536850" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E3-97-127.wav"
+				transpose="8"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="535086" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F3-97-127.wav"
+				transpose="7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533192" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb3-97-127.wav"
+				transpose="6"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="536604" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G3-97-127.wav"
+				transpose="5"
+				cents="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531520" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A3-97-127.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532968" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb3-97-127.wav"
+				transpose="2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530220" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B3-97-127.wav"
+				transpose="1">
+				<zone
+					startSamplePos="0"
+					endSamplePos="540209" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C4-97-127.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="529911" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Db4-97-127.wav"
+				transpose="-1"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="535130" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D4-97-127.wav"
+				transpose="-2">
+				<zone
+					startSamplePos="0"
+					endSamplePos="528812" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb4-97-127.wav"
+				transpose="-3"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530982" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F4-97-127.wav"
+				transpose="-5"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531596" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb4-97-127.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="535364" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G4-97-127.wav"
+				transpose="-7"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="572320" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab4-97-127.wav"
+				transpose="-8"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531994" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb4-97-127.wav"
+				transpose="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533196" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B4-97-127.wav"
+				transpose="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532896" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C5-97-127.wav"
+				transpose="-12"
+				cents="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="356168" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D5-97-127.wav"
+				transpose="-14"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="357226" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb5-97-127.wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="357993" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E5-97-127.wav"
+				transpose="-16"
+				cents="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="356680" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F5-97-127.wav"
+				transpose="-17"
+				cents="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="359014" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb5-97-127.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354662" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G5-97-127.wav"
+				transpose="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="354472" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab5-97-127.wav"
+				transpose="-20"
+				cents="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="357175" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A5-97-127.wav"
+				transpose="-21"
+				cents="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="353872" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb5-97-127.wav"
+				transpose="-22"
+				cents="-7">
+				<zone
+					startSamplePos="0"
+					endSamplePos="355941" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Db6-97-127.wav"
+				transpose="-25"
+				cents="-5">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266295" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D6-97-127.wav"
+				transpose="-26"
+				cents="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="269906" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb6-97-127.wav"
+				transpose="-27"
+				cents="-11">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266818" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E6-97-127.wav"
+				transpose="-28"
+				cents="-10">
+				<zone
+					startSamplePos="0"
+					endSamplePos="267253" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F6-97-127.wav"
+				transpose="-29"
+				cents="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266244" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb6-97-127.wav"
+				transpose="-30"
+				cents="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="267789" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G6-97-127.wav"
+				transpose="-31"
+				cents="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266214" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab6-97-127.wav"
+				transpose="-32"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266020" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A6-97-127.wav"
+				transpose="-33"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265197" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Bb6-97-127.wav"
+				transpose="-34"
+				cents="-14">
+				<zone
+					startSamplePos="0"
+					endSamplePos="267853" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B6-97-127.wav"
+				transpose="-35"
+				cents="-26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266441" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C7-97-127.wav"
+				transpose="-36"
+				cents="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132531" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Db7-97-127.wav"
+				transpose="-37"
+				cents="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133460" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/D7-97-127.wav"
+				transpose="-38"
+				cents="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134108" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Eb7-97-127.wav"
+				transpose="-39"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132435" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/E7-97-127.wav"
+				transpose="-40"
+				cents="-19">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133438" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/F7-97-127.wav"
+				transpose="-41"
+				cents="-16">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133580" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Gb7-97-127.wav"
+				transpose="-42"
+				cents="-22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132975" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/G7-97-127.wav"
+				transpose="-43"
+				cents="-32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132923" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/Ab7-97-127.wav"
+				transpose="-44"
+				cents="-43">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134796" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/A7-97-127.wav"
+				transpose="-45"
+				cents="-44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133207" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/B7-97-127.wav"
+				transpose="-47"
+				cents="-35">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134272" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Steinway Grand Piano/HIGH/C8-97-127.wav"
+				transpose="-48"
+				cents="-44">
+				<zone
+					startSamplePos="0"
+					endSamplePos="132824" />
+			</sampleRange>
+		</sampleRanges>
+	</osc2>
+	<lfo1 type="triangle" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="8" />
+	<compressor
+		syncLevel="7"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x00000000"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x00000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x00000000"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0xCCCCCCBF"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0xBC000000" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x39999984" />
+			<patchCable
+				source="velocity"
+				destination="oscAVolume"
+				amount="0xC0000018" />
+			<patchCable
+				source="velocity"
+				destination="oscBVolume"
+				amount="0x3FFFFFE8" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="8" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

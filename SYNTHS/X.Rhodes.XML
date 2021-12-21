@@ -1,0 +1,1646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.1.0"
+	earliestCompatibleFirmware="3.1.0-beta"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	transpose="-12"
+	lpfMode="24dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c1.wav"
+				transpose="24"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257085" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#1.wav"
+				transpose="23"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257512" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d1.wav"
+				transpose="22"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257130" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#1.wav"
+				transpose="21"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257106" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e1.wav"
+				transpose="20"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257095" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f1.wav"
+				transpose="19"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257207" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#1.wav"
+				transpose="18"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257145" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g1.wav"
+				transpose="17"
+				cents="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="256973" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#1.wav"
+				transpose="16"
+				cents="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257275" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a1.wav"
+				transpose="15"
+				cents="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257146" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#1.wav"
+				transpose="14"
+				cents="22">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257154" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b1.wav"
+				transpose="13"
+				cents="25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257138" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c2.wav"
+				transpose="12"
+				cents="25">
+				<zone
+					startSamplePos="0"
+					endSamplePos="256892" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#2.wav"
+				transpose="11"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257369" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d2.wav"
+				transpose="10"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257076" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#2.wav"
+				transpose="9"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257214" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e2.wav"
+				transpose="8"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257124" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f2.wav"
+				transpose="7"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257110" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#2.wav"
+				transpose="6"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257176" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g2.wav"
+				transpose="5"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257141" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#2.wav"
+				transpose="4"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257127" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a2.wav"
+				transpose="3"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257039" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#2.wav"
+				transpose="2"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257191" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b2.wav"
+				transpose="1"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257200" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c3.wav"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257133" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#3.wav"
+				transpose="-1"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="308578" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d3.wav"
+				transpose="-2"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257138" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#3.wav"
+				transpose="-3"
+				cents="27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="269297" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e3.wav"
+				transpose="-4"
+				cents="26">
+				<zone
+					startSamplePos="0"
+					endSamplePos="330304" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f3.wav"
+				transpose="-5"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342857" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#3.wav"
+				transpose="-6"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342840" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g3.wav"
+				transpose="-7"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342784" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#3.wav"
+				transpose="-8"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342832" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a3.wav"
+				transpose="-9"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342952" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#3.wav"
+				transpose="-10"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342864" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b3.wav"
+				transpose="-11"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342828" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c4.wav"
+				transpose="-12"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342832" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#4.wav"
+				transpose="-13"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342824" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d4.wav"
+				transpose="-14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342909" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#4.wav"
+				transpose="-15"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="342846" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e4.wav"
+				transpose="-16"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="328342" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f4.wav"
+				transpose="-17"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325600" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#4.wav"
+				transpose="-18"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="251779" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g4.wav"
+				transpose="-19"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="276881" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#4.wav"
+				transpose="-20"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="271046" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a4.wav"
+				transpose="-21"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="320889" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#4.wav"
+				transpose="-22"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="333632" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b4.wav"
+				transpose="-23"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="340177" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c5.wav"
+				transpose="-24"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="263248" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#5.wav"
+				transpose="-25"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="288336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d5.wav"
+				transpose="-26"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="248502" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#5.wav"
+				transpose="-27"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="258144" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e5.wav"
+				transpose="-28"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="215227" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f5.wav"
+				transpose="-29"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="234153" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#5.wav"
+				transpose="-30"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="225234" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g5.wav"
+				transpose="-31"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="188493" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#5.wav"
+				transpose="-32"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="204320" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a5.wav"
+				transpose="-33"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="189212" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#5.wav"
+				transpose="-34"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="282353" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b5.wav"
+				transpose="-35"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="189958" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c6.wav"
+				transpose="-36"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="205775" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#6.wav"
+				transpose="-37"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="219007" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d6.wav"
+				transpose="-38"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="164556" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d#6.wav"
+				transpose="-39"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="168308" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e6.wav"
+				transpose="-40"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="156158" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f6.wav"
+				transpose="-41"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="140079" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#6.wav"
+				transpose="-42"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="137898" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g6.wav"
+				transpose="-43"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="130104" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#6.wav"
+				transpose="-44"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="121575" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a6.wav"
+				transpose="-45"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="126336" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#6.wav"
+				transpose="-46"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129497" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b6.wav"
+				transpose="-47"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="148951" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c7.wav"
+				transpose="-48"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="147215" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c#7.wav"
+				transpose="-49"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="158441" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/d7.wav"
+				transpose="-50"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="128736" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/e7.wav"
+				transpose="-52"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="148033" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f7.wav"
+				transpose="-53"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="135368" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/f#7.wav"
+				transpose="-54"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="128365" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g7.wav"
+				transpose="-55"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="140908" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/g#7.wav"
+				transpose="-56"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="129849" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="117"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a7.wav"
+				transpose="-57"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="118796" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/a#7.wav"
+				transpose="-58"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="156808" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="119"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/b7.wav"
+				transpose="-59"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="126229" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MED/c8.wav"
+				transpose="-60"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="153116" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c1 max.wav"
+				transpose="24"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327053" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#1 max.wav"
+				transpose="23"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327175" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d1 max.wav"
+				transpose="22"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327513" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#1 max.wav"
+				transpose="21"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327133" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e1 max.wav"
+				transpose="20"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327399" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f1 max.wav"
+				transpose="19"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327023" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#1 max.wav"
+				transpose="18"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327589" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g1 max.wav"
+				transpose="17"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327246" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#1 max.wav"
+				transpose="16"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327249" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a1 max.wav"
+				transpose="15"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327097" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#1 max.wav"
+				transpose="14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="382797" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b1 max.wav"
+				transpose="13"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="261710" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c2 max.wav"
+				transpose="12"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327537" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#2 max.wav"
+				transpose="11"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327294" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d2 max.wav"
+				transpose="10"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327229" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#2 max.wav"
+				transpose="9"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327315" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e2 max.wav"
+				transpose="8"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327127" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f2 max.wav"
+				transpose="7"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327391" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#2 max.wav"
+				transpose="6"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327194" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g2 max.wav"
+				transpose="5"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327350" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#2 max.wav"
+				transpose="4"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327263" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a2 max.wav"
+				transpose="3"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327282" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#2 max.wav"
+				transpose="2"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327202" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b2 max.wav"
+				transpose="1"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327331" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c3 max.wav"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327183" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#3 max.wav"
+				transpose="-1"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="379841" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d3 max.wav"
+				transpose="-2"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327275" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#3 max.wav"
+				transpose="-3"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327248" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e3 max.wav"
+				transpose="-4"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327308" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f3 max.wav"
+				transpose="-5"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327250" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#3 max.wav"
+				transpose="-6"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327259" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g3 max.wav"
+				transpose="-7"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327293" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#3 max.wav"
+				transpose="-8"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327253" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a3 max.wav"
+				transpose="-9"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327141" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#3 max.wav"
+				transpose="-10"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327361" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b3 max.wav"
+				transpose="-11"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327269" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c4 max.wav"
+				transpose="-12"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327289" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#4 max.wav"
+				transpose="-13"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327263" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d4 max.wav"
+				transpose="-14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327268" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#4 max.wav"
+				transpose="-15"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="293709" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e4 max.wav"
+				transpose="-16"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="285883" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f4 max.wav"
+				transpose="-17"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="239538" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#4 max.wav"
+				transpose="-18"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="258655" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g4 max.wav"
+				transpose="-19"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="273887" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#4 max.wav"
+				transpose="-20"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="250653" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a4 max.wav"
+				transpose="-21"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="308165" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#4 max.wav"
+				transpose="-23"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="257076" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b4 max.wav"
+				transpose="-24"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="238261" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c5 max.wav"
+				transpose="-25"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="266595" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#5 max.wav"
+				transpose="-26"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="255855" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d5 max.wav"
+				transpose="-27"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="216846" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#5 max.wav"
+				transpose="-28"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="172445" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e5 max.wav"
+				transpose="-29"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="194039" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f5 max.wav"
+				transpose="-30"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="187355" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#5 max.wav"
+				transpose="-31"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="173939" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g5 max.wav"
+				transpose="-32"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="165892" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#5 max.wav"
+				transpose="-33"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="184810" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a5 max.wav"
+				transpose="-34"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="191592" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#5 max.wav"
+				transpose="-35"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="170069" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c6 max.wav"
+				transpose="-36"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="175490" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#6 max.wav"
+				transpose="-37"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="149556" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d6 max.wav"
+				transpose="-38"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="148420" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#6 max.wav"
+				transpose="-39"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="143034" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e6 max.wav"
+				transpose="-40"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="117566" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f6 max.wav"
+				transpose="-41"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="118286" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#6 max.wav"
+				transpose="-42"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="114329" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g6 max.wav"
+				transpose="-43"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="117933" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#6 max.wav"
+				transpose="-44"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="116722" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a6 max.wav"
+				transpose="-45"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="121790" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#6 max.wav"
+				transpose="-46"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="125175" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b6 max.wav"
+				transpose="-47"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="131987" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c7 max.wav"
+				transpose="-48"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="125971" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c#7 max.wav"
+				transpose="-49"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="131147" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d7 max.wav"
+				transpose="-50"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="133454" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/d#7 max.wav"
+				transpose="-51"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="121562" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/e7 max.wav"
+				transpose="-52"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="148370" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f7 max.wav"
+				transpose="-53"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="122819" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/f#7 max.wav"
+				transpose="-54"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="114341" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g7 max.wav"
+				transpose="-55"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="112696" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/g#7 max.wav"
+				transpose="-56"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="120142" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="117"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a7 max.wav"
+				transpose="-57"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="124193" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/a#7 max.wav"
+				transpose="-58"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="115707" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="119"
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/b7 max.wav"
+				transpose="-59"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="128294" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Rhodes Piano/MAX/c8 max.wav"
+				transpose="-60"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="131184" />
+			</sampleRange>
+		</sampleRanges>
+	</osc2>
+	<lfo1 type="sine" syncLevel="0" />
+	<lfo2 type="sine" />
+	<unison num="4" detune="10" />
+	<delay
+		pingPong="1"
+		analog="1"
+		syncLevel="7" />
+	<compressor
+		syncLevel="7"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x00000000"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x00000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x00000000"
+		pan="0x00000000"
+		lpfFrequency="0x10000000"
+		lpfResonance="0xA2000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0xCCCCCCBF"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0xCE000000" />
+		<envelope2
+			attack="0xA3D70A37"
+			decay="0xA3D70A37"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x39999984" />
+			<patchCable
+				source="velocity"
+				destination="oscAVolume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="velocity"
+				destination="oscBVolume"
+				amount="0xC0000018" />
+			<patchCable
+				source="velocity"
+				destination="lpfFrequency"
+				amount="0x0F5C28F0" />
+			<patchCable
+				source="envelope2"
+				destination="lpfFrequency"
+				amount="0x1C28F5B8" />
+			<patchCable
+				source="note"
+				destination="lpfFrequency"
+				amount="0x08F5C28C" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="8" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="oscBVolume" />
+		<modKnob controlsParam="oscBPhaseWidth" />
+	</modKnobs>
+</sound>

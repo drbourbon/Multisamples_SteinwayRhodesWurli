@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.1.0"
+	earliestCompatibleFirmware="3.1.0-beta"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-036--c1.wav"
+				transpose="24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218462" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-039--d#1.wav"
+				transpose="21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218892" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-042--f#1.wav"
+				transpose="18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218657" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-045--a1.wav"
+				transpose="15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218486" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-048--c2.wav"
+				transpose="12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="219587" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-051--d#2.wav"
+				transpose="9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218480" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-054--f#2.wav"
+				transpose="6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218663" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-057--a2.wav"
+				transpose="3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218726" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-060--c3.wav">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218721" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-063--d#3.wav"
+				transpose="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218519" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-066--f#3.wav"
+				transpose="-6">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218672" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-069--a3.wav"
+				transpose="-9">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218762" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-072--c4.wav"
+				transpose="-12">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218821" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-075--d#4.wav"
+				transpose="-15">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218708" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-078--f#4.wav"
+				transpose="-18">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218657" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-081--a4.wav"
+				transpose="-21">
+				<zone
+					startSamplePos="0"
+					endSamplePos="219014" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-084--c5.wav"
+				transpose="-24">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218582" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-087--d#5.wav"
+				transpose="-27">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218486" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-090--f#5.wav"
+				transpose="-30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218629" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-093--a5.wav"
+				transpose="-33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218726" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Basses/bass_funk_2/M3BassFunk2-00-Vel127-096--c6.wav"
+				transpose="-36">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218922" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="square"
+		transpose="0"
+		cents="0"
+		retrigPhase="-1" />
+	<lfo1 type="triangle" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="8" />
+	<compressor
+		syncLevel="7"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x00000000"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x80000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x00000000"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0x80000000"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0x99999995" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x39999984" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="8" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>

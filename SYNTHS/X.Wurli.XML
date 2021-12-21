@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound
+	firmwareVersion="3.1.0"
+	earliestCompatibleFirmware="3.1.0-beta"
+	polyphonic="poly"
+	voicePriority="1"
+	mode="subtractive"
+	lpfMode="24dB"
+	modFXType="none">
+	<osc1
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c0.wav"
+				transpose="36"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="620656" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#0.wav"
+				transpose="35"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="724896" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d0.wav"
+				transpose="34"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757874" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#0.wav"
+				transpose="33"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757884" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e0.wav"
+				transpose="32"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757883" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f0.wav"
+				transpose="31"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757873" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#0.wav"
+				transpose="30"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757890" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g0.wav"
+				transpose="29"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757876" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#0.wav"
+				transpose="28"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="748898" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a0.wav"
+				transpose="27"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757884" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#0.wav"
+				transpose="26"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="757877" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b0.wav"
+				transpose="25"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="756005" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c1.wav"
+				transpose="24"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533305" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#1.wav"
+				transpose="23"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533357" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d1.wav"
+				transpose="22"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533316" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#1.wav"
+				transpose="21"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533371" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e1.wav"
+				transpose="20"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533328" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f1.wav"
+				transpose="19"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532821" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#1.wav"
+				transpose="18"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533298" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g1.wav"
+				transpose="17"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="528093" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#1.wav"
+				transpose="16"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="534629" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a1.wav"
+				transpose="15"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530149" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#1.wav"
+				transpose="14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532645" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b1.wav"
+				transpose="13"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530207" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c2.wav"
+				transpose="12"
+				cents="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="534119" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#2.wav"
+				transpose="11"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531267" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d2.wav"
+				transpose="10"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="429216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#2.wav"
+				transpose="9"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="475836" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e2.wav"
+				transpose="8"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="511026" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f2.wav"
+				transpose="7"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532843" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#2.wav"
+				transpose="6"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530142" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g2.wav"
+				transpose="5"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="413043" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#2.wav"
+				transpose="4"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="525961" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a2.wav"
+				transpose="3"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="459661" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#2.wav"
+				transpose="2"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="355467" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b2.wav"
+				transpose="1"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="334801" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c3.wav"
+				cents="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327234" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#3.wav"
+				transpose="-1"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="389477" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d3.wav"
+				transpose="-2"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327087" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#3.wav"
+				transpose="-3"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="323235" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e3.wav"
+				transpose="-4"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="323871" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f3.wav"
+				transpose="-5"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327426" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#3.wav"
+				transpose="-6"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="309498" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g3.wav"
+				transpose="-7"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="297369" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#3.wav"
+				transpose="-8"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290243" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a3.wav"
+				transpose="-9"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="276912" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#3.wav"
+				transpose="-10"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="276944" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b3.wav"
+				transpose="-11"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="276921" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c4.wav"
+				transpose="-12"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="275454" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#4.wav"
+				transpose="-13"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="245732" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d4.wav"
+				transpose="-14"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="240077" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#4.wav"
+				transpose="-15"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="239991" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e4.wav"
+				transpose="-16"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="239952" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f4.wav"
+				transpose="-17"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="237551" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#4.wav"
+				transpose="-18"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="232007" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g4.wav"
+				transpose="-19"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="228565" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#4.wav"
+				transpose="-20"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="211155" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a4.wav"
+				transpose="-21"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="209216" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#4.wav"
+				transpose="-22"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="218181" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b4.wav"
+				transpose="-23"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="200054" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c5.wav"
+				transpose="-24"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="204407" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#5.wav"
+				transpose="-25"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="212328" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d5.wav"
+				transpose="-26"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="189698" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#5.wav"
+				transpose="-27"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="204929" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e5.wav"
+				transpose="-28"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="199997" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f5.wav"
+				transpose="-29"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="152303" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#5.wav"
+				transpose="-30"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="144497" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g5.wav"
+				transpose="-31"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="134905" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#5.wav"
+				transpose="-32"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="137552" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a5.wav"
+				transpose="-33"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="121152" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#5.wav"
+				transpose="-34"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="161967" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b5.wav"
+				transpose="-35"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="139650" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c6.wav"
+				transpose="-36"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="131827" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#6.wav"
+				transpose="-37"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="110089" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d6.wav"
+				transpose="-38"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="123530" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#6.wav"
+				transpose="-39"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="111089" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e6.wav"
+				transpose="-40"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="120544" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f6.wav"
+				transpose="-41"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92766" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#6.wav"
+				transpose="-42"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="94374" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g6.wav"
+				transpose="-43"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="99309" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#6.wav"
+				transpose="-44"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="103586" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a6.wav"
+				transpose="-45"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="109172" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a#6.wav"
+				transpose="-46"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="99507" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/b6.wav"
+				transpose="-47"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="99125" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c7.wav"
+				transpose="-48"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="83474" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/c#7.wav"
+				transpose="-49"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="95191" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d7.wav"
+				transpose="-50"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="83473" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/d#7.wav"
+				transpose="-51"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="84352" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/e7.wav"
+				transpose="-52"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="86561" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f7.wav"
+				transpose="-53"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="79276" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/f#7.wav"
+				transpose="-54"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="75153" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g7.wav"
+				transpose="-55"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="83711" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/g#7(1).wav"
+				transpose="-56"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="68814" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/64/a7.wav"
+				transpose="-62"
+				cents="-17">
+				<zone
+					startSamplePos="0"
+					endSamplePos="90684" />
+			</sampleRange>
+		</sampleRanges>
+	</osc1>
+	<osc2
+		type="sample"
+		loopMode="0"
+		reversed="0"
+		timeStretchEnable="0"
+		timeStretchAmount="0">
+		<sampleRanges>
+			<sampleRange
+				rangeTopNote="24"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c0 max.wav"
+				transpose="36"
+				cents="28">
+				<zone
+					startSamplePos="0"
+					endSamplePos="1158325" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="25"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#0 max.wav"
+				transpose="35"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="1027687" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="26"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d0 max.wav"
+				transpose="34"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="783633" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="27"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#0 max.wav"
+				transpose="33"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685756" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="28"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e0 max.wav"
+				transpose="32"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685694" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="29"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f0 max.wav"
+				transpose="31"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685694" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="30"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#0 max.wav"
+				transpose="30"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685708" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="31"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g0 max.wav"
+				transpose="29"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="681150" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="32"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#0 max.wav"
+				transpose="28"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685690" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="33"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a0 max.wav"
+				transpose="27"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="685712" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="34"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#0 max.wav"
+				transpose="26"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="822838" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="35"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b0 max.wav"
+				transpose="25"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="671317" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="36"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c1 max.wav"
+				transpose="24"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533226" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="37"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#1 max.wav"
+				transpose="23"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533317" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="38"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d1 max.wav"
+				transpose="22"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533393" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="39"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#1 max.wav"
+				transpose="21"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533319" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="40"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e1 max.wav"
+				transpose="20"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533324" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="41"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f1 max.wav"
+				transpose="19"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532978" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="42"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#1 max.wav"
+				transpose="18"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="529880" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="43"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g1 max.wav"
+				transpose="17"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="530302" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="44"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#1 max.wav"
+				transpose="16"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="532568" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="45"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a1 max.wav"
+				transpose="15"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="529175" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="46"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#1 max.wav"
+				transpose="14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="637586" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="47"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b1 max.wav"
+				transpose="13"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="426220" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="48"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c2 max.wav"
+				transpose="12"
+				cents="34">
+				<zone
+					startSamplePos="0"
+					endSamplePos="533416" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="49"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#2 max.wav"
+				transpose="11"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="531146" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="50"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d2 max.wav"
+				transpose="10"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="534060" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="51"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#2 max.wav"
+				transpose="9"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="484505" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="52"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e2 max.wav"
+				transpose="8"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="360973" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="53"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f2 max.wav"
+				transpose="7"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="338794" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="54"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#2 max.wav"
+				transpose="6"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325052" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="55"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g2 max.wav"
+				transpose="5"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325225" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="56"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#2 max.wav"
+				transpose="4"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327201" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="57"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a2 max.wav"
+				transpose="3"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="323584" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="58"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#2 max.wav"
+				transpose="2"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327575" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="59"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b2 max.wav"
+				transpose="1"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325333" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="60"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c3 max.wav"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327232" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="61"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#3 max.wav"
+				transpose="-1"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="390429" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="62"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d3 max.wav"
+				transpose="-2"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325982" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="63"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#3 max.wav"
+				transpose="-3"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="326377" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="64"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e3 max.wav"
+				transpose="-4"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="326359" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="65"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f3 max.wav"
+				transpose="-5"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325988" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="66"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#3 max.wav"
+				transpose="-6"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327274" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="67"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g3 max.wav"
+				transpose="-7"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="326723" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="68"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#3 max.wav"
+				transpose="-8"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="326147" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="69"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a3 max.wav"
+				transpose="-9"
+				cents="33">
+				<zone
+					startSamplePos="0"
+					endSamplePos="325550" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="70"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#3 max.wav"
+				transpose="-10"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="326709" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="71"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b3 max.wav"
+				transpose="-11"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327264" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="72"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c4 max.wav"
+				transpose="-12"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="327271" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="73"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#4 max.wav"
+				transpose="-13"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="324663" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="74"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d4 max.wav"
+				transpose="-14"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="324354" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="75"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#4 max.wav"
+				transpose="-15"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="290581" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="76"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e4 max.wav"
+				transpose="-16"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="277448" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="77"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f4 max.wav"
+				transpose="-17"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="231884" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="78"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#4 max.wav"
+				transpose="-18"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="210315" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="79"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g4 max.wav"
+				transpose="-19"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="252672" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="80"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#4 max.wav"
+				transpose="-20"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="211780" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="81"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a4 max.wav"
+				transpose="-21"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265721" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="82"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#4 max.wav"
+				transpose="-22"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="265721" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="83"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b4 max.wav"
+				transpose="-23"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="209905" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="84"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c5 max.wav"
+				transpose="-24"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="202707" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="85"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#5 max.wav"
+				transpose="-25"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="209566" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="86"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d5 max.wav"
+				transpose="-26"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="173591" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="87"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#5 max.wav"
+				transpose="-27"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="163097" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="88"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e5 max.wav"
+				transpose="-28"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="142767" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="89"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f5 max.wav"
+				transpose="-29"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="153675" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="90"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#5 max.wav"
+				transpose="-30"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="126616" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="91"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g5 max.wav"
+				transpose="-31"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="150222" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="92"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#5 max.wav"
+				transpose="-32"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="135268" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="93"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a5 max.wav"
+				transpose="-33"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="126636" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="94"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#5 max.wav"
+				transpose="-34"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="114517" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="95"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b5 max.wav"
+				transpose="-35"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="120597" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="96"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c6 max.wav"
+				transpose="-36"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="106982" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="97"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#6 max.wav"
+				transpose="-37"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="99956" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="98"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d6 max.wav"
+				transpose="-38"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="103769" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="99"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#6 max.wav"
+				transpose="-39"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="95626" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="100"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e6 max.wav"
+				transpose="-40"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="78660" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="101"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f6 max.wav"
+				transpose="-41"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="74401" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="102"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#6 max.wav"
+				transpose="-42"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="68982" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="103"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g6 max.wav"
+				transpose="-43"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="72687" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="104"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#6 max.wav"
+				transpose="-44"
+				cents="31">
+				<zone
+					startSamplePos="0"
+					endSamplePos="84183" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="105"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a6 max.wav"
+				transpose="-45"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="84422" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="106"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#6 max.wav"
+				transpose="-46"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="77275" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="107"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/b6 max.wav"
+				transpose="-47"
+				cents="32">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92536" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="108"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c7 max.wav"
+				transpose="-48"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="92862" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="109"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c#7 max.wav"
+				transpose="-49"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="66389" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="110"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d7 max.wav"
+				transpose="-50"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="80407" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="111"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/d#7 max.wav"
+				transpose="-51"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73168" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="112"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/e7 max.wav"
+				transpose="-52"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="82273" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="113"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f7 max.wav"
+				transpose="-53"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69593" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="114"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/f#7 max.wav"
+				transpose="-54"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="73241" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="115"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g7 max.wav"
+				transpose="-55"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="68723" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="116"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/g#7 max.wav"
+				transpose="-56"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="69649" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="117"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a7 max.wav"
+				transpose="-57"
+				cents="29">
+				<zone
+					startSamplePos="0"
+					endSamplePos="71662" />
+			</sampleRange>
+			<sampleRange
+				rangeTopNote="118"
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/a#7 max.wav"
+				transpose="-58"
+				cents="30">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65454" />
+			</sampleRange>
+			<sampleRange
+				fileName="SAMPLES/Multisamples/Wurlitzer Piano/max/c8 max.wav"
+				transpose="-59"
+				cents="-3">
+				<zone
+					startSamplePos="0"
+					endSamplePos="65930" />
+			</sampleRange>
+		</sampleRanges>
+	</osc2>
+	<lfo1 type="triangle" syncLevel="0" />
+	<lfo2 type="triangle" />
+	<unison num="1" detune="8" />
+	<delay
+		pingPong="1"
+		analog="0"
+		syncLevel="8" />
+	<compressor
+		syncLevel="7"
+		attack="327244"
+		release="936" />
+	<defaultParams
+		arpeggiatorGate="0x00000000"
+		portamento="0x80000000"
+		compressorShape="0xDC28F5B2"
+		oscAVolume="0x00000000"
+		oscAPulseWidth="0x00000000"
+		oscBVolume="0x00000000"
+		oscBPulseWidth="0x00000000"
+		noiseVolume="0x80000000"
+		volume="0x00000000"
+		pan="0x00000000"
+		lpfFrequency="0x7FFFFFFF"
+		lpfResonance="0x80000000"
+		hpfFrequency="0x80000000"
+		hpfResonance="0x80000000"
+		lfo1Rate="0x1999997E"
+		lfo2Rate="0x00000000"
+		modulator1Amount="0x80000000"
+		modulator1Feedback="0x80000000"
+		modulator2Amount="0x80000000"
+		modulator2Feedback="0x80000000"
+		carrier1Feedback="0x80000000"
+		carrier2Feedback="0x80000000"
+		modFXRate="0x00000000"
+		modFXDepth="0x00000000"
+		delayRate="0x00000000"
+		delayFeedback="0x80000000"
+		reverbAmount="0xCCCCCCBF"
+		arpeggiatorRate="0x00000000"
+		stutterRate="0x00000000"
+		sampleRateReduction="0x80000000"
+		bitCrush="0x80000000"
+		modFXOffset="0x00000000"
+		modFXFeedback="0x00000000">
+		<envelope1
+			attack="0x80000000"
+			decay="0xE6666654"
+			sustain="0x7FFFFFFF"
+			release="0xCCCCCCBF" />
+		<envelope2
+			attack="0xE6666654"
+			decay="0xE6666654"
+			sustain="0xFFFFFFE9"
+			release="0xE6666654" />
+		<patchCables>
+			<patchCable
+				source="velocity"
+				destination="volume"
+				amount="0x39999984" />
+			<patchCable
+				source="velocity"
+				destination="oscBVolume"
+				amount="0x3FFFFFE8" />
+			<patchCable
+				source="velocity"
+				destination="oscAVolume"
+				amount="0xC0000018" />
+		</patchCables>
+		<equalizer
+			bass="0x00000000"
+			treble="0x00000000"
+			bassFrequency="0x00000000"
+			trebleFrequency="0x00000000" />
+	</defaultParams>
+	<arpeggiator
+		mode="off"
+		numOctaves="2"
+		syncLevel="8" />
+	<modKnobs>
+		<modKnob controlsParam="pan" />
+		<modKnob controlsParam="volumePostFX" />
+		<modKnob controlsParam="lpfResonance" />
+		<modKnob controlsParam="lpfFrequency" />
+		<modKnob controlsParam="env1Release" />
+		<modKnob controlsParam="env1Attack" />
+		<modKnob controlsParam="delayFeedback" />
+		<modKnob controlsParam="delayRate" />
+		<modKnob controlsParam="reverbAmount" />
+		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor" />
+		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1" />
+		<modKnob controlsParam="lfo1Rate" />
+		<modKnob controlsParam="portamento" />
+		<modKnob controlsParam="stutterRate" />
+		<modKnob controlsParam="bitcrushAmount" />
+		<modKnob controlsParam="sampleRateReduction" />
+	</modKnobs>
+</sound>
